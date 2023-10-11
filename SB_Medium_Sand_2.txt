@@ -1,0 +1,86 @@
+Medium_Sand_2 1.50 3.25 0.50 -15.12 AM
+Medium_Sand_2 1.50 3.25 1.60 -15.16 AM
+Medium_Sand_2 1.50 3.25 3.37 -15.24 AM
+Medium_Sand_2 1.50 3.25 4.76 -15.31 AM
+Medium_Sand_2 1.50 3.25 6.48 -15.44 AM
+Medium_Sand_2 1.50 3.25 7.88 -15.58 AM
+Medium_Sand_2 1.50 3.25 9.18 -15.75 AM
+Medium_Sand_2 1.50 3.25 10.56 -15.90 AM
+Medium_Sand_2 1.50 3.25 11.71 -16.07 AM
+Medium_Sand_2 1.50 3.25 12.89 -16.25 AM
+Medium_Sand_2 1.50 3.25 14.26 -16.45 AM
+Medium_Sand_2 1.50 3.25 15.62 -16.68 AM
+Medium_Sand_2 1.50 3.25 16.93 -16.88 AM
+Medium_Sand_2 1.50 3.25 18.19 -17.09 AM
+Medium_Sand_2 1.50 3.25 19.19 -17.25 AM
+Medium_Sand_2 1.50 3.25 20.12 -17.47 AM
+Medium_Sand_2 1.50 3.25 21.90 -17.74 AM
+Medium_Sand_2 1.50 3.25 22.95 -17.92 AM
+Medium_Sand_2 1.50 3.25 23.86 -18.12 AM
+Medium_Sand_2 1.50 3.25 24.99 -18.30 AM
+Medium_Sand_2 1.50 3.25 26.28 -18.51 AM
+Medium_Sand_2 1.50 3.25 27.68 -18.72 AM
+Medium_Sand_2 1.50 3.25 29.60 -19.03 AM
+Medium_Sand_2 1.50 3.25 31.04 -19.24 AM
+Medium_Sand_2 1.50 3.25 32.70 -19.45 AM
+Medium_Sand_2 1.50 3.25 34.13 -19.67 AM
+Medium_Sand_2 1.50 3.25 35.60 -19.85 AM
+Medium_Sand_2 1.50 3.25 37.45 -20.07 AM
+Medium_Sand_2 1.50 3.25 38.92 -20.20 AM
+Medium_Sand_2 1.50 3.25 40.35 -20.29 AM
+Medium_Sand_2 1.50 3.25 41.94 -20.43 AM
+Medium_Sand_2 1.50 3.25 43.59 -20.53 AM
+Medium_Sand_2 1.50 3.25 46.05 -20.65 AM
+Medium_Sand_2 1.50 3.25 47.95 -20.71 AM
+Medium_Sand_2 1.50 3.25 50.16 -20.79 AM
+Medium_Sand_2 1.50 3.25 52.36 -20.87 AM
+Medium_Sand_2 1.50 3.25 54.61 -20.93 AM
+Medium_Sand_2 1.50 3.25 55.89 -20.99 AM
+Medium_Sand_2 1.50 3.25 57.26 -21.06 AM
+Medium_Sand_2 1.50 3.25 58.60 -21.21 AM
+Medium_Sand_2 1.50 3.25 60.35 -21.35 AM
+Medium_Sand_2 1.50 3.25 62.60 -21.49 AM
+Medium_Sand_2 1.50 3.25 64.30 -21.61 AM
+Medium_Sand_2 1.50 3.25 65.75 -21.77 AM
+Medium_Sand_2 1.50 3.25 67.08 -21.92 AM
+Medium_Sand_2 1.50 3.25 68.44 -22.12 AM
+Medium_Sand_2 1.50 3.25 69.41 -22.33 AM
+Medium_Sand_2 1.50 3.25 70.47 -22.52 AM
+Medium_Sand_2 1.50 3.25 71.57 -22.82 AM
+Medium_Sand_2 1.50 3.25 72.56 -23.06 AM
+Medium_Sand_2 1.50 3.25 73.84 -23.44 AM
+Medium_Sand_2 1.50 3.25 74.68 -23.77 AM
+Medium_Sand_2 1.50 3.25 75.44 -24.08 AM
+Medium_Sand_2 1.50 3.25 76.84 -24.70 AM
+Medium_Sand_2 1.50 3.25 78.04 -25.34 AM
+Medium_Sand_2 1.50 3.25 79.06 -25.92 AM
+Medium_Sand_2 1.50 3.25 79.98 -26.59 AM
+Medium_Sand_2 1.50 3.25 80.69 -27.24 AM
+Medium_Sand_2 1.50 3.25 81.60 -27.95 AM
+Medium_Sand_2 1.50 3.25 82.30 -28.67 AM
+Medium_Sand_2 1.50 3.25 83.02 -29.58 AM
+Medium_Sand_2 1.50 3.25 83.63 -30.37 AM
+Medium_Sand_2 1.50 3.25 84.45 -31.47 AM
+Medium_Sand_2 1.50 3.25 84.97 -32.28 AM
+Medium_Sand_2 1.50 3.25 85.39 -33.03 AM
+Medium_Sand_2 1.50 3.25 86.16 -34.59 AM
+Medium_Sand_2 1.50 3.25 86.67 -35.75 AM
+Medium_Sand_2 1.50 3.25 87.45 -37.69 AM
+Medium_Sand_2 1.50 3.25 87.74 -38.87 AM
+Medium_Sand_2 1.50 3.25 88.11 -40.31 AM
+Medium_Sand_2 1.50 3.25 88.35 -41.34 AM
+Medium_Sand_2 1.50 3.25 88.61 -42.68 AM
+Medium_Sand_2 1.50 3.25 88.78 -43.88 AM
+
+
+
+
+
+
+
+
+
+
+
+
+

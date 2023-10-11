@@ -1,0 +1,89 @@
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 0.48 -16.04 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 3.61 -16.04 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 7.38 -16.08 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 11.38 -16.15 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 13.66 -16.23 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 15.90 -16.30 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 18.05 -16.36 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 22.54 -16.51 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 24.79 -16.58 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 29.19 -16.71 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 31.89 -16.78 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 34.98 -16.86 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 38.58 -16.92 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 42.60 -17.00 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 46.54 -17.07 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 49.23 -17.14 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 51.05 -17.21 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 52.33 -17.28 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 54.15 -17.34 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 55.89 -17.42 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 57.27 -17.48 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 58.65 -17.56 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 59.94 -17.63 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 60.83 -17.70 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 62.18 -17.82 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 63.48 -17.98 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 64.65 -18.08 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 65.78 -18.26 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 66.52 -18.39 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 67.32 -18.51 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 68.17 -18.64 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 69.08 -18.86 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 69.86 -19.05 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 70.58 -19.19 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 71.43 -19.39 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 72.22 -19.66 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 72.91 -19.86 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 73.76 -20.13 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 74.43 -20.35 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 75.05 -20.58 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 75.54 -20.81 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 75.95 -20.97 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 76.64 -21.24 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 77.15 -21.51 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 77.86 -21.88 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 78.57 -22.25 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 79.10 -22.55 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 79.66 -22.85 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 80.17 -23.26 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 80.68 -23.60 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 81.26 -24.05 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 81.77 -24.43 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 82.23 -24.87 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 82.72 -25.32 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 83.05 -25.66 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 83.51 -26.13 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 84.09 -26.80 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 84.47 -27.21 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 84.83 -27.62 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 85.09 -28.01 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 85.39 -28.52 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 85.69 -28.99 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 85.99 -29.56 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 86.29 -30.18 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 86.57 -30.75 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 86.79 -31.25 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 87.10 -31.82 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 87.33 -32.37 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 87.56 -32.98 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 87.75 -33.56 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 87.92 -34.18 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.09 -34.84 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.23 -35.48 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.37 -36.07 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.48 -36.63 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.61 -37.17 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.70 -37.79 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 88.82 -38.57 AG
+Coarse_Sand_Sandy_Gravel_5 -0.01 3.25 89.04 -39.94 AG
+
+
+
+
+
+
+
+
+
+
