@@ -1,8 +1,9 @@
 % clear
 % clc
 % 
-% % PREPARAÇÃO E PROCESSAMENTO DOS DADOS APL PARA TREINAR O CLASSIFICATION LEARNER
 %%
+% DEFINIÇÃO DOS PARAMETROS COMUNS DO PROCESSAMENTO DOS DADOS DE TREINO E DE TESTE
+
 %Introdução dos parametros comuns (treino e teste) a processar
 disp('Introdução dos dados configuração de extração parametros das ARCs');
 disp(' ');
@@ -13,9 +14,11 @@ disp(' ');
 %         angRes=input('Resolução angular: ')
         angRes=0.5;
 %         IntAng=input('Angulo de Intercept: ')
-        In25tAng=40;
+        IntAng=40;
 
 %%
+% PREPARAÇÃO E PROCESSAMENTO DOS DADOS DA APL
+
 % Define a pasta onde os ficheiros APL iniciais estão localizados
 pasta_ps = 'E:\BkSctt_Research\1_MatLab_MLClassif\2_DadosAPL\ASCII_Files\APL_6col\PS';
 pasta_sb = 'E:\BkSctt_Research\1_MatLab_MLClassif\2_DadosAPL\ASCII_Files\APL_6col\SB';
@@ -42,15 +45,15 @@ nomesFicheiros_sb = dir(fullfile(pasta_sb, 'SB_*.txt'));
     end  
     
     
-%Introdução dos parametros comuns (treino e teste) a processar
-%         angle_min=input('Angulo mínimo: ')
-        angle_min=25;
-%         angle_max=input('Angulo máximo: ')
-        angle_max=55;
-%         angRes=input('Resolução angular: ')
-        angRes=0.5;
-%         IntAng=input('Angulo de Intercept: ')
-        IntAng=40;
+% %Introdução dos parametros comuns (treino e teste) a processar
+% %         angle_min=input('Angulo mínimo: ')
+%         angle_min=25;
+% %         angle_max=input('Angulo máximo: ')
+%         angle_max=55;
+% %         angRes=input('Resolução angular: ')
+%         angRes=0.5;
+% %         IntAng=input('Angulo de Intercept: ')
+%         IntAng=40;
               
         %Escrita do cabeçalho no ficheiro dados PS_*.txt. Esta inf é importante que acompanhe o ficheiro.
         fprintf(fid_ps, '%s\n', ('Ficheiro Modelo : APL PS'));
@@ -271,9 +274,8 @@ end
     disp(['Os ficheiros foram processados corretamente e gravados na pasta ' nomeficheiroDestino_ps]);
     disp(' ');
 
-
+%%
     
-%
 % PREPARAÇÃO E PROCESSAMENTO DOS DADOS BACKSCATTER A TESTAR (CLASSIFICAR)
 
 file=input('Insira o caminho para o ficheiro FMGT Processed Backscatter: ','s');
@@ -430,9 +432,9 @@ end
 
 %%
 
-%Classificador
+% Classificador
 
-%classificationLearner;
+% classificationLearner;
 
-yfit = trainedModel_KNNN.predictFcn('43ProcessedBkSctt_ARC_Parameters.txt');
+% yfit = trainedModel_KNNN.predictFcn('43ProcessedBkSctt_ARC_Parameters.txt');
 
