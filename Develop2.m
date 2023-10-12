@@ -17,7 +17,7 @@ disp(' ');
         IntAng=40;
 
 %%
-% PREPARAÇÃO E PROCESSAMENTO DOS DADOS DA APL
+% PREPARAÇÃO E PROCESSAMENTO DOS DADOS DA APL (A TREINAR)
 
 % Define a pasta onde os ficheiros APL iniciais estão localizados
 pasta_ps = 'E:\BkSctt_Research\1_MatLab_MLClassif\2_DadosAPL\ASCII_Files\APL_6col\PS';
@@ -44,17 +44,7 @@ nomesFicheiros_sb = dir(fullfile(pasta_sb, 'SB_*.txt'));
                 error(['Não foi possível criar o arquivo de destino ' nomeficheiroDestino_sb]);
     end  
     
-    
-% %Introdução dos parametros comuns (treino e teste) a processar
-% %         angle_min=input('Angulo mínimo: ')
-%         angle_min=25;
-% %         angle_max=input('Angulo máximo: ')
-%         angle_max=55;
-% %         angRes=input('Resolução angular: ')
-%         angRes=0.5;
-% %         IntAng=input('Angulo de Intercept: ')
-%         IntAng=40;
-              
+                 
         %Escrita do cabeçalho no ficheiro dados PS_*.txt. Esta inf é importante que acompanhe o ficheiro.
         fprintf(fid_ps, '%s\n', ('Ficheiro Modelo : APL PS'));
         fprintf(fid_ps, '%s\n', ['Intervalo ARC   : ' num2str(angle_min),'°' ' to ' num2str(angle_max),'°']);
@@ -276,7 +266,7 @@ end
 
 %%
     
-% PREPARAÇÃO E PROCESSAMENTO DOS DADOS BACKSCATTER A TESTAR (CLASSIFICAR)
+% PREPARAÇÃO E PROCESSAMENTO DOS DADOS BACKSCATTER A TESTAR (A CLASSIFICAR)
 
 file=input('Insira o caminho para o ficheiro FMGT Processed Backscatter: ','s');
 disp(' ');
