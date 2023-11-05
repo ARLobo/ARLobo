@@ -1,0 +1,37 @@
+
+Vamos continuar a trabalhar apenas nos dados de bombordo PS. Depois do algoritmo estar a funcionar como esperado podemos então desenvolver a parte de SB. Penso que depois será mais simples uma vez que com alguns ajustes ao codigo chegaremos lá.
+
+Vamos dar mais um passo importante no desenvolvimento deste projeto.
+
+No início do script em vez de perguntar o caminho e o nome do ficheiro a processar deve perguntar o caminho para uma pasta (que vai ser criada) onde vão estar localizados todos os ficheiros BS que vem do FMGT. 
+Pode ter o nome de "DadosAProc".
+
+O código deve listar todos os fiheiros contidos nessa pasta e processar-los sucessivamente (classificar) e guardar-los numa pasta com o nome, por exemplo "DadosClassif".
+
+Quando puderes vê também a questão do Dual Head. Acho que já te enviei um ficheiro desses.
+
+O código da georeferênciação não está a bombar. Se puderes resolver isso também era mais um passo importante, pois seguidamente começavamos a pensar como implantar os resultados da classificação num mosaico BS. Enfim, vamos fazendo sem pressas à medida da tua disponibilidade mas com determinação.
+
+Entretanto, em vez de usar os ficheiros da APL para treinar o algoritmo de ML, criei ficheiros com dados SSMF (TrainData_LinMedian_EM2040_Single_BSModel.txt) com dados de referência de acordo com o resultado laboratorial das amostras recolhidas de alguns locais representando os diversos tipos de sedimentos. Seguidamente, treinei um algoritmo de Support Vector Machine com parametros otimizados que cujo modelo apresentou uma precisão de 98%. Nada mau.
+
+As classificações que fiz com este modelo são muito boas. Existe uma concordância muito boa com a imagem mosaico BS.
+So Far So Good.
+
+Neste momento estou a tentar abrir uma imagem mosaico (geotiff) no Matlab, para posteriormente implantar o resultado da classificação devidadmente georeferênciada, mas não está a ser fácil. Ainda não consegui.
+
+
+No meu GitHub está lá uma pasta (2Miguel_5NOV) com 4 ficheiros:
+
+ - #37_EstimaAM.rar, ficheiro com dados FMGT para processar e classificar.
+
+ - BS_PS_5NOV_Lobo.m, script principal com pequenas alterações.
+
+ - Function_SVMOpt_trainClassifier.m, cria o modelo treinado. Este código é invocado pelo script principal para classificar o ficheiro (#37_EstimaAM.txt).
+
+ - TrainData_LinMedian_EM2040_Single_BSModel.txt, ficheiro com os vetores de referência para treinar o algoritmo SVM.
+
+Coloca estes 4 ficheiros no Current Folder do Matlab e corre.
+
+Abraço e bom trabalho,
+
+Qualquer dúvida liga.
